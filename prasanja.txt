@@ -1,0 +1,12 @@
+1. Koj e glaven grad na Azerbejdzan ?; a) Baku; b) Ankara; c) Istanbul
+2. Koj e istochniot sosed na Makedonija ?; a) Srbija; b) Slovenija; c) Bugarija
+3. Koj od ovie programski jazici ne e objektno-orientiran ?; a) C#; b) Java; c) C
+4. Koj e oficijalen jazik vo Andora ?; a) Shpanski; b) Katalonski; c) Portugalski
+5. Koj od navedenite zborovi ne pretstavuva modifikator ?; a) interface; b) private; c) protected
+6. Koj od navedenite jazici ne e vo slovenskata grupa ?; a) Ruski; b) Polski; c) Norveshki
+7. Koj e tocniot zbor na shpanski za 'nikogash' ?; a) never; b) nunca; c) asnjehere
+8. Koj od navedenite odgovori e najpogoden ciklus za presmetuvanje na cifri od broj ?; a) for; b) do/while; c) while
+9. Koj od navedenite odgovori se del od konceptite na OOP ?; a) apstrakcija; b) izvrshuvanje; c) polimorfizam; d) referenciranje; e) alociranje
+10. Koi od navedenite jazici ne se programski ?; a) Angliski; b) C++; c) PHP; d) Holandski; e)Python
+11. Vo koi od ovie filmovi glumel Dylan O'Brien ?; a) Harry Potter; b) Friends With Benefits; c) The Maze Runner; d) The Internship; e) Richie Rich
+12. Koi od ovie serii se sitcomi ?; a) Teen Wolf; b) How I Met Your Mother; c) The Night Agent; d) Lucifer; e) The Big Bang Theory
